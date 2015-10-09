@@ -1,2 +1,4 @@
 this is for git test
 hello world, it is fun to learn use git
+we should learn basic commands
+
