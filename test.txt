@@ -2,4 +2,8 @@ this is for git test
 hello world, it is fun to learn use git
 we should learn basic commands
 this is test git for window
-this is test edit txt 
+you can learn how to use git
+
+
+
+
